@@ -85,6 +85,15 @@ Pick a course on the title screen. Each has 5 holes; **Grand Tour** plays all 25
 
 Rival skill (Easy / Normal / Hard) is chosen on the title screen.
 
+## Career mode
+Press **🏅 CAREER** on the title screen. Career is always Speed Golf, you against three bots.
+- **Create your golfer** (Customize tab): name, headwear, build, skin, hair and outfit colours, trail colour and special-shot style. A 3D preview shows the result; drag it to spin.
+- **Tournaments**: a ladder of seven events, from the 3-hole Rookie Cup up to the 9-hole Rush Links Masters. Each event has its own field of bots, and they get faster and more accurate as you climb. Finish in the **top 2** to unlock the next event. You can replay any unlocked event for more money.
+- **Prize money**: paid by finishing place, plus bonuses for birdies (+25), eagles (+60), holes-in-one (+150) and hoops (+15).
+- **Upgrades**: spend money on five stats, each up to level 10: Power (distance), Speed (running), Control (spin grip and tamer overswings), Stamina (dash time) and Special (meter charge rate). Each level costs more than the last.
+- Restarting a hole is disabled during an event, and quitting forfeits it.
+- Progress is saved in your browser (`localStorage`). **Reset career** is on the Upgrades tab.
+
 ## Online play (Firebase)
 Press **🌐 ONLINE** on the title screen. One player creates a room and shares the 4-letter code (or the invite link); 2–4 players race Speed Golf together. Dash bumps and special-shot shockwaves hit other players too. The host picks the course and moves everyone to the next hole.
 
